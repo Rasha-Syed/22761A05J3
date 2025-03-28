@@ -1,3 +1,4 @@
+![Screenshot 2025-03-28 150545](https://github.com/user-attachments/assets/6fdbc8e0-2ca6-4a34-8c31-c6611dfa6409)
 # Average Calculator Microservice
 
 A Node.js microservice that calculates averages from different number APIs while maintaining a sliding window of numbers.
